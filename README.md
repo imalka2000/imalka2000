@@ -133,8 +133,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=220&section=header&text=Thushan%20Imalka&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20SLIIT&descAlignY=58&descColor=cbd5e1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Thushan%20Imalka&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20SLIIT&descAlignY=58&descColor=ccc" />
 </p>
 
 <h3 align="center">
@@ -147,13 +161,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 IT Undergraduate at **SLIIT** 
+- 🎓 IT Undergraduate at **SLIIT**
 - 📊 Aspiring **Data Analyst** & **Business Analyst** — passionate about turning data into decisions
 - 🌱 Currently exploring **Business Intelligence · Data Visualization · SQL Analytics · Power BI · Tableau · Python for Data Analysis**
 - 🔭 Working on data-driven projects involving **dashboards, reporting pipelines & business insights**
 - 👯 Open to collaborate on **data analysis, BI, or full-stack projects**
 - 💬 Ask me about **Python (Pandas/NumPy), Power BI, SQL, React, or Node.js**
-- 📫 Reach me: [imalka2000@gmail.com](mailto:imalka2000@gmail.com)
+- 📫 Reach me: [imalkathushan2000@gmail.com](mailto:imalka2000@gmail.com)
 - ⚡ Fun fact: I love finding patterns in messy data — it's basically solving puzzles for a living!
 
 ---
@@ -253,7 +267,7 @@
   <a href="mailto:imalka2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+]
 </p>
 
 ---
@@ -263,5 +277,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 </p>
