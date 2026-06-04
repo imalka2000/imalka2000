@@ -165,13 +165,13 @@
 ### 👨‍💻 About Me
 
 - 🎓 IT Undergraduate at **SLIIT**
-- 📊 Aspiring **Data Analyst** & **Business Analyst** — passionate about turning data into decisions
+- 📊 Aspiring **Data Analyst** & **Business Analyst** - passionate about turning data into decisions
 - 🌱 Currently exploring **Business Intelligence · Data Visualization · SQL Analytics · Power BI · Tableau · Python for Data Analysis**
 - 🔭 Working on data-driven projects involving **dashboards, reporting pipelines & business insights**
 - 👯 Open to collaborate on **data analysis, BI, or full-stack projects**
 - 💬 Ask me about **Python (Pandas/NumPy), Power BI, SQL, React, or Node.js**
 - 📫 Reach me: [imalkathushan2000@gmail.com](mailto:imalka2000@gmail.com)
-- ⚡ Fun fact: I love finding patterns in messy data — it's basically solving puzzles for a living!
+- ⚡ Fun fact: I love finding patterns in messy data - it's basically solving puzzles for a living!
 
 ---
 
