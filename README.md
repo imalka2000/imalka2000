@@ -11,12 +11,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Undergraduate at **SLIIT**
-- 🔭 Always working on exciting full-stack projects
+- 🔭 Always working on exciting projects
 - 🌱 Currently exploring **Cloud Architecture** & **AI/ML integration**
 - 👯 Open to collaborate on interesting open source projects
-- 💬 Ask me about **React, Node.js, Python, or anything full-stack**
-- 📫 Reach me at: [senerunethum2001@gmail.com](mailto:senerunethum2001@gmail.com)
-- 😄 Pronouns: **He / Him**
 
 ---
 
