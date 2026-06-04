@@ -151,9 +151,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Thushan%20Imalka&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20SLIIT&descAlignY=58&descColor=ccc" />
 </p> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imalka2000/imalka2000/main/banner.png" width="100%" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Thushan+Imalka!;Data+%26+Business+Analyst+in+the+making+%F0%9F%93%8A;Turning+raw+data+into+real+decisions+%F0%9F%92%A1;Full+Stack+Developer+%7C+SLIIT+Undergraduate" alt="Typing SVG" />
