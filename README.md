@@ -147,8 +147,12 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Thushan%20Imalka&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20SLIIT&descAlignY=58&descColor=ccc" />
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imalka2000/imalka2000/main/banner.png" width="100%" />
 </p>
 
 <h3 align="center">
